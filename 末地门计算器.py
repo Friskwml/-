@@ -38,6 +38,7 @@ def Hello():
     --------------------------------------------------
     末地门坐标计算程序
     github:https://github.com/Friskwml/EnderCalc/
+    bilibili:Frisk_wml
                                 ----Friskwml 2022/1/27
     --------------------------------------------------
     """)
